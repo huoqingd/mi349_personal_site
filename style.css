@@ -2,4 +2,38 @@ body {
     background: #141414;
     color: #ffffff;
     padding: 50px;
+    font-family: fantasy;
+}
+
+h1{
+font-size: 2.3333em;
+padding-bottom: 5.555px;
+border-radius: 5px;
+border-bottom: 1px solid red;
+
+}
+
+p{
+font-size: larger;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+
+h2{
+font-size: 2.2em;
+letter-spacing: normal;
+
+}
+
+#hello_features{
+    font-size: xx-large;
+    color: red;
+}
+ul{
+    color: red;
+    font-size: x-large;
+}
+Liverpool{
+    width: 100px;
 }
